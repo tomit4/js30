@@ -6,9 +6,9 @@ This Repository is a following of WesBos's JavaScript 30 Course, a series of beg
 
 _Projects_
 
-- [ ] JavaScript Drum Kit
-- [ ] CSS + JS Clock
-- [ ] Playing with CSS Variables and JS
+- [x] JavaScript Drum Kit
+- [x] CSS + JS Clock
+- [x] Playing with CSS Variables and JS
 - [ ] Array Cardio Day 1
 - [ ] Flex Panels and Image Gallery
 - [ ] Ajax Type Ahead
