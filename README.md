@@ -36,3 +36,4 @@ _Projects_
 - [ ] Video Speed Controller UI
 - [ ] Countdown Clock
 - [ ] Whack A Mole Game
+- [ ] Cover Wes Bos FlexBox Tutorial[Wesbos Flexbox Tutorial](https://flexbox.io)
