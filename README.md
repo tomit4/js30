@@ -17,10 +17,10 @@ _Projects_
 - [x] 14 Must Know Dev Tools Tricks
 - [x] Hold Shift to Check Multiple Checkboxes
 - [x] Custom HTML5 Video Player
-- [ ] Key Sequence Detection (KONAMI CODE)
-- [ ] Slide In on Scroll
-- [ ] Object and Arrays - Reference VS Copy
-- [ ] LocalStorage and Event Delegation
+- [x] Key Sequence Detection (KONAMI CODE)
+- [x] Slide In on Scroll
+- [x] Object and Arrays - Reference VS Copy
+- [x] LocalStorage and Event Delegation
 - [ ] CSS Text Shadow Mouse Move Effect
 - [ ] Sorting Band Names without articles
 - [ ] Tally String Times with Reduce
@@ -38,3 +38,4 @@ _Projects_
 - [ ] Whack A Mole Game
 - [ ] Cover Wes Bos FlexBox Tutorial[Wesbos Flexbox Tutorial](https://flexbox.io)
 - [ ] In Custom HTML5 Video Course, see to FullScreen Video Challenge
+- [ ] In LocalStorage Video Course, see Additional Challenges in index.js file
