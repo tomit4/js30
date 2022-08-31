@@ -9,14 +9,14 @@ _Projects_
 - [x] JavaScript Drum Kit
 - [x] CSS + JS Clock
 - [x] Playing with CSS Variables and JS
-- [ ] Array Cardio Day 1
-- [ ] Flex Panels and Image Gallery
-- [ ] Ajax Type Ahead
-- [ ] Array Cardio Day 2
-- [ ] Fun with HTML5 Canvas
-- [ ] 14 Must Know Dev Tools Tricks
-- [ ] Hold Shift to Check Multiple Checkboxes
-- [ ] Custom HTML5 Video Player
+- [x] Array Cardio Day 1
+- [x] Flex Panels and Image Gallery
+- [x] Ajax Type Ahead
+- [x] Array Cardio Day 2
+- [x] Fun with HTML5 Canvas
+- [x] 14 Must Know Dev Tools Tricks
+- [x] Hold Shift to Check Multiple Checkboxes
+- [x] Custom HTML5 Video Player
 - [ ] Key Sequence Detection (KONAMI CODE)
 - [ ] Slide In on Scroll
 - [ ] Object and Arrays - Reference VS Copy
@@ -37,3 +37,4 @@ _Projects_
 - [ ] Countdown Clock
 - [ ] Whack A Mole Game
 - [ ] Cover Wes Bos FlexBox Tutorial[Wesbos Flexbox Tutorial](https://flexbox.io)
+- [ ] In Custom HTML5 Video Course, see to FullScreen Video Challenge
