@@ -43,3 +43,6 @@ speechSynthesis.addEventListener('voiceschanged', populateVoices)
 voicesDropdown.addEventListener('change', setVoice)
 options.forEach(option => option.addEventListener('change', setOption))
 speakButton.addEventListener('click', toggle)
+// stopButton.addEventListener('click', toggle(false)) // here to demo that this doesn't work
+// stopButton.addEventListener('click', toggle.bind(null, false)) // works or...
+stopButton.addEventListener('click', () => toggle(false)) // also works, downside is creates another function
