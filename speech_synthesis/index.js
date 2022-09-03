@@ -15,6 +15,7 @@ setTimeout(() => {
 function populateVoices() {
     voices = this.getVoices() // returns an empty array with Google API, try from Windows VM
     voicesDropdown.innerHTML = voices
+        .filter(voice => voice.lang.includes('en'))
         .map(voice => `<option value="${voice.name}">${voice.name} (${voice.lang})</option>}`)
         .join('')
 }
